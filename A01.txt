@@ -6,12 +6,12 @@
         },
         {
             "url": "https://ghproxy.com/raw.githubusercontent.com/zbl730/TVBoxCK/main/B02.txt",
-            "name": "小梨子"
+            "name": "梨子"
         },
 	
         {
             "url": "https://ghproxy.com/raw.githubusercontent.com/zbl730/TVBoxCK/main/B03.txt",
-            "name": "刘C"
+            "name": "香蕉"
         },
 	{
             "url": "https://yydsys.top/duo/v.json",
