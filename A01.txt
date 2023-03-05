@@ -24,6 +24,10 @@
             "url": "https://ghproxy.com/raw.githubusercontent.com/zbl730/TVBoxCK/main/B05.txt",
             "name": "西瓜"
         },
+	 {
+            "url": "https://ghproxy.com/raw.githubusercontent.com/zbl730/TVBoxCK/main/B06.txt",
+            "name": "葡萄"
+        },
         {
             "url": "http://home.jundie.top:81/top98.json",
             "name": "俊于"
