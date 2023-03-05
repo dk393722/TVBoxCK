@@ -1,6 +1,9 @@
-{
-	"urls": [
 
+	"urls": [
+                   {
+			"url": "https://raw.iqiq.io/liu673cn/box/main/m.json",
+			"name": "🏡光辉线路"
+		},
 		{
 			"url": "http://pandown.pro/tvbox/tvbox.json",
 			"name": "🏡巧计线路"
@@ -14,7 +17,6 @@
 		{
 			"url": "https://download.kstore.space/download/2863/01.txt",
 			"name": "🚀潇洒线路"
-			
 		},
 		
 		
