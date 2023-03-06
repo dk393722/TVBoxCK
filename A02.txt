@@ -1,5 +1,9 @@
 {
 	"urls": [
+	          {
+			"url": "https://ghproxy.com/raw.githubusercontent.com/zbl730/TVBoxCK/main/B11.txt",
+			"name": "线路测试"
+		},
                    {
 			"url": "https://raw.iqiq.io/liu673cn/box/main/m.json",
 			"name": "🏡光辉线路"
