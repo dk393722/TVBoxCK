@@ -7,6 +7,8 @@
 "searchable":1,
 "quickSearch":1,
 "filterable":1,
-"ext":"https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/2345.json"}
+"ext":"https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/2345.json"}，
+
+{"key":"小苹果","name":"🐞小苹果(佰欣园)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1}
  ]
 }
