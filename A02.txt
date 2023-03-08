@@ -5,7 +5,7 @@
             "name": "小苹果"
         },
         {
-            "url": "https://www.agit.ai/cyl518/yl/raw/branch/master/ml.json",
+            "url": "https://ghproxy.com/raw.githubusercontent.com/zbl730/TVBoxCK/main/B12.txt",
             "name": "胖丫"
         },
 	{
