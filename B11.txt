@@ -1,15 +1,6 @@
 {
-  "sites": [ 
-{"key":"2345_spider",
-"name":"2345影视(官源)",
-"type":3,
-"api":"csp_YS2345",
-"searchable":1,
-"quickSearch":1,
-"filterable":1,
-"ext":"https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/2345.json"}，
-
-{
+	"sites": [
+		{
 			"key": "小苹果",
 			"name": "🍎主力源",
 			"type": 3,
@@ -19,4 +10,5 @@
 			"filterable": 1,
 			"jar": "http://45.125.46.61/xpg.jar;md5;d3828dbc91d98c3ebc258e6f7874a30c"
 		}
+	]
 }
