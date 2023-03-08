@@ -9,23 +9,6 @@
    { 
      "sourceName": "仓库3", 
       "sourceUrl": "https://ghproxy.com/raw.githubusercontent.com/zbl730/TVBoxCK/main/A03.txt"
-   }, 
-   { "sourceName": "仓库4",
-     "sourceUrl": "https://ghproxy.com/raw.githubusercontent.com/zbl730/TVBoxCK/main/A04.txt" 
-   }, 
-   { 
-     "sourceName": "仓库5", 
-      "sourceUrl": "https://ghproxy.com/raw.githubusercontent.com/zbl730/TVBoxCK/main/A05.txt"
-   }, 
-   { "sourceName": "仓库6",
-     "sourceUrl": "https://ghproxy.com/raw.githubusercontent.com/zbl730/TVBoxCK/main/A06.txt" 
-   }, 
-   { 
-     "sourceName": "仓库7", 
-      "sourceUrl": "https://ghproxy.com/raw.githubusercontent.com/zbl730/TVBoxCK/main/A07.txt"
-   }, 
-   { "sourceName": "仓库8",
-     "sourceUrl": "https://ghproxy.com/raw.githubusercontent.com/zbl730/TVBoxCK/main/A08.txt" 
-   } 
+   }
  ]
  }
