@@ -1,10 +1,9 @@
 {
 "sites": [
-		{"key":"AList","name":"🍰AList","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/SCXSVIP/TV@main/Alist_XS.json","jar":"https://la.kstore.space/download/2863/FM.jar;md5;e889b257fb9dbaf519f3c095231c12ea"},
+{"key":"AList","name":"🍰AList","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/SCXSVIP/TV@main/Alist_XS.json","jar":"https://la.kstore.space/download/2863/FM.jar;md5;e889b257fb9dbaf519f3c095231c12ea"},
 {"key":"Kuaikan","name":"🚀快看影视(优)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "BD","name": "🔌BD资源","type": 1,"api": "https://api.apibdzy.com/api.php/provide/vod/","searchable": 1,"filterable": 0,"categories": ["国产动漫","日韩动漫","大陆剧","欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
 
-//==============================================================================================================
 
 {"key": "csp_xBPQ_胖虎影视","name":"🐯胖虎影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/yxcqr/TVboxo@main/XBPQ/胖虎影视.json"},
 {"key": "csp_xBPQ_电影先生","name":"🤵电影先生(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/yxcqr/TVboxo@main/XBPQ/电影先生.json"},
